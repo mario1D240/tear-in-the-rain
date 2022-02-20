@@ -1,7 +1,7 @@
 0,HeartTeleport,323,308,,,,,,
 0,CombatZoneResize,247,185,399,379,,,,
 0,heartmode,0,,,,,,,
-0.1,SansText,[turn_3 text],,,,,,,
+0.1,SansText,...,,,,,,,
 0.1,BoneStab,0,20,0.04,4.07,,,,
 0,BoneStab,2,20,0.04,4.07,,,,
 0,GETHEARTPOS,HeartX,HeartY,,,,,,
