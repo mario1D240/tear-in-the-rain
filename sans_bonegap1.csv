@@ -1,12 +1,5 @@
 0,CombatZoneResize,133,251,508,391,TLResume,
 0,HeartTeleport,320,376,,,,
 0,HeartMode,1,,,,,
-0,TLPause,,,,,,
-0.2,SET,Loop,10,,,,
-0,SUB,Loop,$Loop,1,,,
-0.4,BoneV,503,286,100,2,500,1
-0,BoneV,128,286,100,0,500,1
-0.3,BoneV,503,373,13,2,500,0
-0,BoneV,128,373,13,0,500,0
-0,JMPNZ,6,$Loop,,,,
+
 1,EndAttack,,,,,,
