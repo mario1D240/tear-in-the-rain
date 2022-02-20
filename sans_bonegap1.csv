@@ -2,4 +2,17 @@
 0,HeartTeleport,320,376,,,,
 0,HeartMode,1,,,,, 
 0,SansText,wow kid           you can't hit            me so easily.,,,,,
-1,EndAttack,,,,,,
+0.2,BoneVRepeat,128,240,70,0,160,9,140
+0,BoneVRepeat,124,240,70,0,160,9,140
+0,BoneVRepeat,120,240,70,0,160,9,140
+0,BoneVRepeat,128,355,70,0,160,9,140
+0,BoneVRepeat,124,355,70,0,160,9,140
+0,BoneVRepeat,120,355,70,0,160,9,140
+0,BoneVRepeat,503,240,70,2,160,9,140
+0,BoneVRepeat,507,240,70,2,160,9,140
+0,BoneVRepeat,511,240,70,2,160,9,140
+0,BoneVRepeat,503,355,70,2,160,9,140
+0,BoneVRepeat,507,355,70,2,160,9,140
+0,BoneVRepeat,511,355,70,2,160,9,140
+9,EndAttack,,,,,,,
+
