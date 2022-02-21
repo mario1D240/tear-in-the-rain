@@ -1,5 +1,6 @@
-0,DamagePlayer,4,0,,,,
-0,MaxHp,48
+0,DamagePlayer,4,
+0,SetMaxHp,48,,,,,
+0,DamagePlayer,-74,,,,,,,,,
 0,SansAnimation,,,,,,,,
 3.0,SansHead,ClosedEyes,,,,,,,
 0,SansHead,NoEyes,,,,
