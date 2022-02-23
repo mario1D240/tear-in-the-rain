@@ -81,7 +81,7 @@
 		"media/damage.ogg",
 		"media/aaaaaa.ogg",
 		"media/gu.ogg",
-		"media/mus_zz_megalovania.wav",
+		"media/mus_zz_megalovania.webm",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
