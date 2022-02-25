@@ -81,7 +81,7 @@
 		"media/damage.webm",
 		"media/aaaaaa.webm",
 		"media/gu.webm",
-		"media/mus_zz_megalovania.webm",
+		"media/mus_zz_megalovania.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
